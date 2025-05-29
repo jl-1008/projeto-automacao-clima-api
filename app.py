@@ -18,3 +18,5 @@ def obter_clima(cidade):
 if __name__ == "__main__":
     cidade = input("Digite o nome da cidade: ")  # Pergunta ao usuário a cidade
     obter_clima(cidade)  # Chama a função para buscar o clima
+
+
